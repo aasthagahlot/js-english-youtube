@@ -1,2 +1,2 @@
-# js-english-youtube
+# js
 a code repo for javascript
